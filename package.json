@@ -1,0 +1,12 @@
+{
+  "name": "vioyo-anniversary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive fourth anniversary gift for Vioyo",
+  "scripts": {
+    "dev": "node scripts/serve.cjs",
+    "start": "node scripts/serve.cjs",
+    "check": "node scripts/check.cjs"
+  },
+  "engines": { "node": ">=22" }
+}
